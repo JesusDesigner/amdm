@@ -29,6 +29,14 @@ export default function Header() {
                 Register
               </Link>
             </li>
+            <li>
+              <Link
+                href="/signup"
+                className="btn-sm bg-green-800 text-gray-200 shadow-sm hover:bg-gray-900"
+              >
+                Fale conosco
+              </Link>
+            </li>
           </ul>
         </div>
       </div>
