@@ -460,7 +460,7 @@ packages:
 
   lightningcss-darwin-x64@1.29.1:
     resolution: {integrity: sha512-k33G9IzKUpHy/J/3+9MCO4e+PzaFblsgBjSGlpAaFikeBFm8B/CkO3cKU9oI4g+fjS2KlkLM/Bza9K/aw8wsNA==}
-    engines: {node: '>= 12.0.0'}
+    engines: {node: '>= 12.0.0'}uscUn6UXK1ldpC1JjiXbLfFZtRlBhjPZ5o1NCLiDbg8fhUPKStHoTA
     cpu: [x64]
     os: [darwin]
 
