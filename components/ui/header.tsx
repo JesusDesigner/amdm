@@ -18,7 +18,7 @@ export default function Header() {
                 href="/signin"
                 className="btn-sm bg-white text-gray-800 shadow-sm hover:bg-gray-50"
               >
-                Login
+                Home
               </Link>
             </li>
             <li>
@@ -26,12 +26,12 @@ export default function Header() {
                 href="/signup"
                 className="btn-sm bg-gray-800 text-gray-200 shadow-sm hover:bg-gray-900"
               >
-                Register
+                Contato
               </Link>
             </li>
             <li>
               <Link
-                href="/signup"
+                href="https://wa.me/5585988452885"
                 className="btn-sm bg-green-800 text-gray-200 shadow-sm hover:bg-gray-900"
               >
                 Fale conosco
