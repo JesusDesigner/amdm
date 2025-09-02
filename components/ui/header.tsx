@@ -32,7 +32,7 @@ export default function Header() {
             <li>
               <Link
                 href="https://wa.me/5585988452885"
-                className="btn-sm bg-green-800 text-gray-200 shadow-sm hover:bg-green-900"
+                className="btn-sm bg-green-800 text-gray-200 shadow-sm hover:bg-gray-900"
               >
                 Fale conosco
               </Link>
